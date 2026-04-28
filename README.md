@@ -68,7 +68,6 @@ cd backend && ./mvnw test
 Frontend has 19 tests covering Navigation, All Cars, Add Car, Edit Car, Delete Car, Search, and About Page.
 
 ## Documentation
-See [DOCUMENTATION.md](DOCUMENTATION.md) for the full architecture, REST API reference, and project structure.
 
 `CarFleet_Documentation.docx` is the original Part 1 architecture document.
 
